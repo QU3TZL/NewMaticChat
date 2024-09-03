@@ -1,0 +1,43 @@
+.message-content {
+  line-height: 1.6;
+}
+
+.message-content p {
+  margin-bottom: 1em;
+}
+
+.message-content h1,
+.message-content h2,
+.message-content h3,
+.message-content h4,
+.message-content h5,
+.message-content h6 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.message-content ul,
+.message-content ol {
+  margin-bottom: 1em;
+  padding-left: 2em;
+}
+
+.message-content code {
+  background-color: #f0f0f0;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+.message-content pre {
+  background-color: #f0f0f0;
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+.message-content blockquote {
+  border-left: 4px solid #ccc;
+  margin-left: 0;
+  padding-left: 1em;
+  color: #666;
+}
